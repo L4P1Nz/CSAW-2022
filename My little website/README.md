@@ -45,9 +45,9 @@ Result:
 
 ![2.png](https://github.com/L4P1Nz/CSAW-2022/blob/main/My%20little%20website/2.png)
 
-Nguyên nhân là vì flag.txt nằm ở root. (Mình lại hiểu sai ý của Hint)
+Vì đây chỉ là self xss thôi nên không có quá nhiều để khai thác
 
-### **Think...**
+### **Searching...**
 
 Sau khi search và thử vài POC thì mình tìm được cái issue này :
 
