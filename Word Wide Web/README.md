@@ -59,3 +59,12 @@ visit(url + '/stuff',cookie)
 ![8.png](https://github.com/L4P1Nz/CSAW-2022/blob/main/Word%20Wide%20Web/8.png)
 
 P/s: Cú lừa cục mạnh từ Description :((
+
+
+### **Update:**
+
+Một simple write up từ discord: 
+
+```
+wget -r -l inf http://web.chal.csaw.io:5010/
+```
